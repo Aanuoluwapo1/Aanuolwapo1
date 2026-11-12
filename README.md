@@ -99,8 +99,6 @@ Specialized in analyzing Windows Security and Sysmon logs, detecting adversary b
 
 <div align="left">
   <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CompTIA_A%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ---
