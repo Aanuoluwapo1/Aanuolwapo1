@@ -1,4 +1,4 @@
-# Hi, I'm Anuoluwapo Johnson 👋
+# Hi, I'm Anuoluwapo Johnson 
 ### Cybersecurity Analyst & SecOps Engineer | SOC Operations & Threat Detection
 
 <div align="left">
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 CompTIA Security+, Network+, and A+ certified **Cybersecurity Analyst** with hands-on experience in **Security Operations Center (SOC) engineering, SIEM/EDR implementation, threat triage, and incident response**. 
 
@@ -21,7 +21,7 @@ Specialized in analyzing Windows Security and Sysmon logs, detecting adversary b
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. [SignalOps — Enterprise Security Operations Center (SOC) Platform](https://github.com/Aanuoluwapo1/signalops)
 > **Next-Generation Full-Stack Cyber Threat Triage, Incident Response & Telemetry Platform**
@@ -60,7 +60,7 @@ Specialized in analyzing Windows Security and Sysmon logs, detecting adversary b
 
 ---
 
-## 🛠️ Technical Skills & Arsenal
+## Technical Skills & Arsenal
 
 ### Security Operations & SIEM
 ```text
@@ -95,7 +95,7 @@ Specialized in analyzing Windows Security and Sysmon logs, detecting adversary b
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="left">
   <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -103,7 +103,7 @@ Specialized in analyzing Windows Security and Sysmon logs, detecting adversary b
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/johnson-anuoluwapo-235189240](https://www.linkedin.com/in/johnson-anuoluwapo-235189240/)
 - **Email**: [anuoluwapojohnson11@gmail.com](mailto:anuoluwapojohnson11@gmail.com)
