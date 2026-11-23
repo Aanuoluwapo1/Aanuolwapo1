@@ -25,6 +25,8 @@ Specialized in analyzing Windows Security and Sysmon logs, detecting adversary b
 
 ### 1. [SignalOps — Enterprise Security Operations Center (SOC) Platform](https://github.com/Aanuoluwapo1/signalops)
 > **Next-Generation Full-Stack Cyber Threat Triage, Incident Response & Telemetry Platform**
+> 
+> 🌐 **Live Demo:** [https://signalops-iota.vercel.app](https://signalops-iota.vercel.app)
 
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/Aanuoluwapo1/signalops)
 [![TypeScript 6](https://img.shields.io/badge/TypeScript-6.0-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Aanuoluwapo1/signalops)
